@@ -25,8 +25,13 @@ pip install webdriver_manager
 ## Usage
 1. Update your credentials in the config file
 2. Run the script:
+   for Instahyre Automation:
 ```bash
 python instahyre.py
+```
+  for Flexiple Automation:
+```bash
+python flexiple.py
 ```
 
 ## Configuration
