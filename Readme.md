@@ -1,4 +1,4 @@
-# Instahyre Easy Apply Bot
+# Instahyre/Flexiple Easy Apply Bot
 
 ## Overview
 This is an automated bot designed to streamline the job application process on Instahyre. The bot helps job seekers save time by automating repetitive application tasks.
